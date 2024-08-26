@@ -1,1 +1,4 @@
-Viegenre-Cipher/a.out
+# Ignore all executables
+
+Vigenre-Cipher/a.out
+./.vscode/
